@@ -1,0 +1,28 @@
+//aqui farei a ligação da API OMDb API
+//url api - http://www.omdbapi.com/?i=tt3896198&apikey=b9a8ca09
+
+//send all data resquest => http://www.omdbapi.com/?apikey=[yourkey]&
+
+//poster API resquest => http://img.omdbapi.com/?apikey=[yourkey]&
+
+//possiveis requisições => 
+    /*
+      id
+      titulo
+      pesquisa
+    */
+
+/*Necessario no HTML - Input Titulo / Ano / Id / Trama
+button
+*/
+
+
+//ex.: pesquisa = Laterna verde => URL http://www.omdbapi.com/?t=laterna+vende
+//ex.: id = 11111 => URL http://www.omdbapi.com/?i=11111
+
+
+-> faltou
+fazer a requisição api
+mostrar a resposta da requisição
+gerenciamento de erros
+
